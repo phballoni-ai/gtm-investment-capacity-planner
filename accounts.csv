@@ -1,0 +1,269 @@
+account_id,account_name,region,segment,relationship,owner_team,est_acv,currency,icp_fit,engagement,strategic
+ACC-1001,Delta Marine Holdings,North America,Enterprise,prospect,NA Enterprise,1228900.0,USD,3,2,N
+ACC-1002,Zenith Paper Industries,North America,Enterprise,customer,NA Enterprise,479400.0,USD,4,3,N
+ACC-1003,Westbrook Paper SA,North America,Enterprise,customer,NA Enterprise,216800.0,USD,4,3,N
+ACC-1004,Vantage Chemicals Inc,North America,Enterprise,customer,NA Enterprise,590700.0,USD,3,3,N
+ACC-1005,Quartz Textiles Partners,North America,Enterprise,prospect,NA Enterprise,799700.0,USD,3,4,N
+ACC-1006,Orbit Chemicals Industries,North America,Enterprise,prospect,NA Enterprise,880300.0,USD,4,3,N
+ACC-1007,Ridgeway Textiles Partners,North America,Enterprise,prospect,NA Enterprise,410100.0,USD,5,2,N
+ACC-1008,Quartz Plastics Inc,North America,Enterprise,prospect,NA Enterprise,540600.0,USD,4,2,N
+ACC-1009,Northgate Utilities GmbH,North America,Enterprise,customer,NA Enterprise,625200.0,USD,3,4,N
+ACC-1010,Granite Packaging Industries,North America,Enterprise,prospect,NA Enterprise,725000.0,USD,3,2,Y
+ACC-1011,Juniper Marine Industries,North America,Enterprise,prospect,NA Enterprise,769300.0,USD,3,5,N
+ACC-1012,Yarrow Paper Holdings,North America,Enterprise,prospect,NA Enterprise,811800.0,USD,2,3,N
+ACC-1013,Alder Energy Group,North America,Enterprise,prospect,NA Enterprise,563000.0,USD,4,0,Y
+ACC-1014,Brightwave Plastics Inc,North America,Enterprise,prospect,NA Enterprise,,USD,3,2,N
+ACC-1015,Quartz Logistics GmbH,North America,Enterprise,prospect,NA Enterprise,163300.0,USD,4,1,N
+ACC-1016,Fjord Logistics Inc,North America,Enterprise,prospect,NA Enterprise,367900.0,USD,4,1,N
+ACC-1017,Northgate Energy Group,North America,Enterprise,prospect,NA Enterprise,388600.0,USD,3,4,N
+ACC-1018,Pinnacle Chemicals Ltd,North America,Enterprise,customer,NA Enterprise,435200.0,USD,3,4,N
+ACC-1019,Cobalt Plastics Partners,North America,Enterprise,customer,NA Enterprise,504500.0,USD,4,5,Y
+ACC-1020,Zenith Components Industries,North America,Enterprise,prospect,NA Enterprise,484900.0,USD,3,4,N
+ACC-1021,Fjord Retail Inc,North America,Enterprise,customer,NA Enterprise,,USD,3,3,N
+ACC-1022,Quartz Utilities Inc,North America,Enterprise,prospect,NA Enterprise,297100.0,USD,2,,N
+ACC-1023,Delta Components GmbH,North America,Enterprise,customer,NA Enterprise,195000.0,USD,3,4,N
+ACC-1024,Westbrook Materials Group,North America,Enterprise,customer,NA Enterprise,187500.0,USD,4,4,Y
+ACC-1025,Xenon Packaging GmbH,North America,Enterprise,prospect,NA Enterprise,511000.0,USD,,3,Y
+ACC-1026,Orbit Materials Holdings,North America,Enterprise,prospect,NA Enterprise,1097600.0,USD,2,2,N
+ACC-1027,Ironbridge Chemicals Holdings,North America,Enterprise,customer,NA Enterprise,324400.0,USD,1,3,N
+ACC-1028,Zenith Packaging Partners,North America,Enterprise,prospect,NA Enterprise,231500.0,USD,,0,N
+ACC-1029,Lumen Marine Industries,North America,Enterprise,prospect,NA Enterprise,635300.0,USD,5,1,N
+ACC-1030,Pinnacle Utilities Holdings,North America,Enterprise,prospect,NA Enterprise,1349600.0,USD,5,1,N
+ACC-1031,Lumen Foods Partners,North America,Enterprise,prospect,NA Enterprise,300100.0,USD,4,3,N
+ACC-1032,Juniper Utilities SA,North America,Enterprise,prospect,NA Enterprise,444900.0,USD,5,1,N
+ACC-1033,Everline Mining Partners,North America,Enterprise,customer,NA Enterprise,264200.0,USD,2,2,N
+ACC-1034,Westbrook Plastics Partners,North America,Enterprise,prospect,NA Enterprise,615500.0,USD,1,2,N
+ACC-1035,Keystone Logistics Holdings,North America,Enterprise,prospect,NA Enterprise,490900.0,USD,5,2,N
+ACC-1036,Vantage Steel SA,North America,Enterprise,customer,NA Enterprise,1077600.0,USD,2,,N
+ACC-1037,Ridgeway Logistics Partners,North America,Enterprise,prospect,NA Enterprise,211300.0,USD,4,1,N
+ACC-1038,Lumen Mining Industries,North America,Enterprise,prospect,NA Enterprise,462100.0,USD,4,2,N
+ACC-1039,Vantage Utilities Ltd,North America,Enterprise,prospect,NA Enterprise,190900.0,USD,5,2,N
+ACC-1040,Brightwave Materials Holdings,North America,Enterprise,customer,NA Enterprise,448400.0,USD,4,2,N
+ACC-1041,Solstice Components Inc,North America,Enterprise,prospect,NA Enterprise,895400.0,USD,5,2,N
+ACC-1042,Fjord Steel Holdings,North America,Enterprise,customer,NA Enterprise,601500.0,USD,3,1,N
+ACC-1043,Granite Materials Inc,North America,Enterprise,customer,NA Enterprise,325500.0,USD,3,5,N
+ACC-1044,Umbra Paper Partners,North America,Enterprise,customer,NA Enterprise,1472200.0,USD,5,4,N
+ACC-1045,Alder Materials SA,North America,Enterprise,prospect,NA Enterprise,478900.0,USD,4,0,N
+ACC-1046,Lumen Machinery GmbH,North America,Mid-Market,prospect,NA Mid-Market,103100.0,USD,2,1,N
+ACC-1047,Yarrow Energy Partners,North America,Mid-Market,customer,NA Mid-Market,71400.0,USD,3,3,N
+ACC-1048,Helix Mining Industries,North America,Mid-Market,prospect,NA Mid-Market,75800.0,USD,5,3,N
+ACC-1049,Ironbridge Pharma Ltd,North America,Mid-Market,customer,NA Mid-Market,90900.0,USD,5,4,N
+ACC-1050,Northgate Marine Ltd,North America,Mid-Market,customer,NA Mid-Market,67800.0,USD,5,,N
+ACC-1051,Tidewater Retail GmbH,North America,Mid-Market,customer,NA Mid-Market,186600.0,USD,2,3,N
+ACC-1052,Keystone Packaging Industries,North America,Mid-Market,customer,NA Mid-Market,95900.0,USD,3,2,N
+ACC-1053,Ironbridge Machinery Industries,North America,Mid-Market,prospect,NA Mid-Market,71500.0,USD,3,1,N
+ACC-1054,Zenith Paper GmbH,North America,Mid-Market,customer,NA Mid-Market,105900.0,USD,3,2,N
+ACC-1055,Xenon Packaging Ltd,North America,Mid-Market,customer,NA Mid-Market,116000.0,USD,4,3,N
+ACC-1056,Keystone Freight Group,North America,Mid-Market,prospect,NA Mid-Market,136100.0,USD,5,1,N
+ACC-1057,Pinnacle Steel Inc,North America,Mid-Market,prospect,NA Mid-Market,66500.0,USD,2,3,N
+ACC-1058,Everline Marine GmbH,North America,Mid-Market,prospect,NA Mid-Market,35700.0,USD,4,0,N
+ACC-1059,Ridgeway Chemicals Ltd,North America,Mid-Market,customer,NA Mid-Market,59900.0,USD,2,4,N
+ACC-1060,Quartz Marine SA,North America,Mid-Market,customer,NA Mid-Market,104300.0,USD,5,5,N
+ACC-1061,Quartz Logistics Group,North America,Mid-Market,prospect,NA Mid-Market,38800.0,USD,3,1,N
+ACC-1062,Yarrow Retail Inc,North America,Mid-Market,customer,NA Mid-Market,41300.0,USD,1,,N
+ACC-1063,Westbrook Plastics Inc,North America,Mid-Market,prospect,NA Mid-Market,203400.0,USD,5,2,N
+ACC-1064,Westbrook Marine SA,North America,Mid-Market,customer,NA Mid-Market,57300.0,USD,5,5,N
+ACC-1065,Northgate Textiles GmbH,North America,Mid-Market,customer,NA Mid-Market,56400.0,USD,5,2,N
+ACC-1066,Ironbridge Paper Ltd,North America,Mid-Market,prospect,NA Mid-Market,151400.0,USD,5,1,N
+ACC-1067,Solstice Components Ltd,North America,Mid-Market,prospect,NA Mid-Market,115400.0,USD,2,3,N
+ACC-1068,Tidewater Foods Group,North America,Mid-Market,customer,NA Mid-Market,28600.0,USD,2,5,N
+ACC-1069,Everline Automotive Ltd,North America,Mid-Market,customer,NA Mid-Market,33300.0,USD,3,4,Y
+ACC-1070,Helix Steel SA,North America,Mid-Market,prospect,NA Mid-Market,34400.0,USD,2,2,N
+ACC-1071,Brightwave Textiles SA,North America,Mid-Market,prospect,NA Mid-Market,278400.0,USD,3,3,N
+ACC-1072,Granite Energy Partners,North America,Mid-Market,prospect,NA Mid-Market,40900.0,USD,3,,N
+ACC-1073,Orbit Utilities Industries,North America,Mid-Market,prospect,NA Mid-Market,,USD,5,2,N
+ACC-1074,Granite Components Holdings,North America,Mid-Market,prospect,NA Mid-Market,56300.0,USD,4,0,N
+ACC-1075,Orbit Components Partners,North America,Mid-Market,customer,NA Mid-Market,63700.0,USD,1,4,N
+ACC-1076,Lumen Paper Ltd,North America,Mid-Market,customer,NA Mid-Market,56200.0,USD,3,3,N
+ACC-1077,Brightwave Plastics SA,North America,Mid-Market,prospect,NA Mid-Market,83800.0,USD,4,3,N
+ACC-1078,Ironbridge Machinery Group,North America,Mid-Market,customer,NA Mid-Market,33200.0,USD,3,2,N
+ACC-1079,Tidewater Automotive Industries,North America,Mid-Market,prospect,NA Mid-Market,53300.0,USD,1,1,N
+ACC-1080,Ironbridge Freight Group,North America,Mid-Market,prospect,NA Mid-Market,29700.0,USD,2,5,N
+ACC-1081,Xenon Logistics Inc,North America,Mid-Market,prospect,NA Mid-Market,35200.0,USD,3,0,N
+ACC-1082,Keystone Utilities Group,North America,Mid-Market,prospect,NA Mid-Market,107300.0,USD,4,2,N
+ACC-1083,Quartz Steel Group,North America,Mid-Market,prospect,NA Mid-Market,30800.0,USD,3,3,N
+ACC-1084,Ridgeway Marine Inc,North America,Mid-Market,prospect,NA Mid-Market,219600.0,USD,3,3,N
+ACC-1085,Ridgeway Textiles SA,North America,Mid-Market,prospect,NA Mid-Market,109900.0,USD,3,3,N
+ACC-1086,Orbit Retail Group,North America,Mid-Market,customer,NA Mid-Market,56600.0,USD,3,3,N
+ACC-1087,Brightwave Components Holdings,North America,Mid-Market,prospect,NA Mid-Market,94900.0,USD,5,5,N
+ACC-1088,Ridgeway Foods GmbH,North America,Mid-Market,prospect,NA Mid-Market,26900.0,USD,3,0,N
+ACC-1089,Brightwave Paper Inc,North America,Mid-Market,customer,NA Mid-Market,141900.0,USD,3,4,N
+ACC-1090,Quartz Foods SA,North America,Mid-Market,customer,NA Mid-Market,79800.0,USD,1,,N
+ACC-1091,Pinnacle Aviation Ltd,North America,Mid-Market,customer,NA Mid-Market,58500.0,USD,4,3,N
+ACC-1092,Vantage Materials Industries,North America,Mid-Market,customer,NA Mid-Market,47700.0,USD,2,5,N
+ACC-1093,Zenith Pharma Industries,North America,Mid-Market,prospect,NA Mid-Market,42900.0,USD,2,3,N
+ACC-1094,Xenon Paper Partners,North America,Mid-Market,prospect,NA Mid-Market,277500.0,USD,4,5,N
+ACC-1095,Yarrow Plastics Group,North America,Mid-Market,prospect,NA Mid-Market,48700.0,USD,4,,N
+ACC-1096,Quartz Materials Industries,North America,Mid-Market,customer,NA Mid-Market,33400.0,USD,3,3,N
+ACC-1097,Pinnacle Aviation Inc,North America,Mid-Market,prospect,NA Mid-Market,64900.0,USD,3,0,N
+ACC-1098,Keystone Automotive Holdings,North America,Mid-Market,prospect,NA Mid-Market,,USD,3,4,N
+ACC-1099,Pinnacle Aviation Partners,North America,Mid-Market,prospect,NA Mid-Market,36300.0,USD,,5,N
+ACC-1100,Zenith Retail GmbH,North America,Mid-Market,prospect,NA Mid-Market,110300.0,USD,2,1,N
+ACC-1101,Vantage Plastics Partners,North America,Mid-Market,customer,NA Mid-Market,159800.0,USD,3,3,N
+ACC-1102,Pinnacle Pharma Ltd,North America,Mid-Market,prospect,NA Mid-Market,61700.0,USD,3,2,N
+ACC-1103,Northgate Paper Group,North America,Mid-Market,prospect,NA Mid-Market,305500.0,USD,3,2,N
+ACC-1104,Helix Plastics Inc,North America,Mid-Market,prospect,NA Mid-Market,217700.0,USD,3,5,N
+ACC-1105,Ridgeway Pharma Group,North America,Mid-Market,customer,NA Mid-Market,74200.0,USD,5,5,N
+ACC-1106,Solstice Chemicals Partners,EMEA,Enterprise,customer,EMEA Enterprise,232200.0,EUR,3,,N
+ACC-1107,Ridgeway Components SA,EMEA,Enterprise,customer,EMEA Enterprise,279100.0,EUR,4,,N
+ACC-1108,Orbit Pharma SA,EMEA,Enterprise,customer,EMEA Enterprise,856800.0,EUR,3,4,N
+ACC-1109,Granite Plastics Industries,EMEA,Enterprise,customer,EMEA Enterprise,271500.0,EUR,3,5,N
+ACC-1110,Solstice Utilities Ltd,EMEA,Enterprise,customer,EMEA Enterprise,585000.0,USD,3,1,N
+ACC-1111,Yarrow Textiles Group,EMEA,Enterprise,customer,EMEA Enterprise,305500.0,GBP,3,3,N
+ACC-1112,Fjord Freight Ltd,EMEA,Enterprise,prospect,EMEA Enterprise,495400.0,GBP,4,2,N
+ACC-1113,Zenith Energy Partners,EMEA,Enterprise,prospect,EMEA Enterprise,254600.0,EUR,4,0,N
+ACC-1114,Ridgeway Materials Partners,EMEA,Enterprise,customer,EMEA Enterprise,419800.0,EUR,3,5,N
+ACC-1115,Xenon Chemicals Industries,EMEA,Enterprise,customer,EMEA Enterprise,621500.0,EUR,2,4,Y
+ACC-1116,Granite Aviation SA,EMEA,Enterprise,prospect,EMEA Enterprise,216600.0,EUR,4,2,N
+ACC-1117,Lumen Utilities Industries,EMEA,Enterprise,prospect,EMEA Enterprise,369600.0,GBP,3,1,N
+ACC-1118,Quartz Freight SA,EMEA,Enterprise,customer,EMEA Enterprise,621000.0,EUR,1,4,N
+ACC-1119,Northgate Machinery Inc,EMEA,Enterprise,customer,EMEA Enterprise,284000.0,EUR,4,5,N
+ACC-1120,Solstice Automotive Holdings,EMEA,Enterprise,prospect,EMEA Enterprise,430900.0,EUR,2,4,N
+ACC-1121,Xenon Energy Holdings,EMEA,Enterprise,prospect,EMEA Enterprise,113100.0,GBP,3,0,N
+ACC-1122,Solstice Freight Inc,EMEA,Enterprise,customer,EMEA Enterprise,219400.0,GBP,2,1,N
+ACC-1123,Ironbridge Plastics Ltd,EMEA,Enterprise,prospect,EMEA Enterprise,533100.0,USD,3,1,N
+ACC-1124,Everline Freight Inc,EMEA,Enterprise,prospect,EMEA Enterprise,350700.0,EUR,2,3,N
+ACC-1125,Delta Components Industries,EMEA,Enterprise,customer,EMEA Enterprise,424400.0,EUR,2,3,N
+ACC-1126,Solstice Textiles Holdings,EMEA,Enterprise,prospect,EMEA Enterprise,312400.0,GBP,2,0,N
+ACC-1127,Westbrook Textiles Partners,EMEA,Enterprise,customer,EMEA Enterprise,493000.0,EUR,2,,Y
+ACC-1128,Vantage Aviation Ltd,EMEA,Enterprise,prospect,EMEA Enterprise,644300.0,USD,5,0,N
+ACC-1129,Xenon Textiles GmbH,EMEA,Enterprise,customer,EMEA Enterprise,179700.0,EUR,3,,Y
+ACC-1130,Xenon Foods Holdings,EMEA,Enterprise,customer,EMEA Enterprise,192700.0,GBP,5,0,N
+ACC-1131,Granite Freight SA,EMEA,Enterprise,customer,EMEA Enterprise,388000.0,EUR,3,4,N
+ACC-1132,Lumen Chemicals Industries,EMEA,Enterprise,prospect,EMEA Enterprise,381000.0,EUR,3,1,N
+ACC-1133,Ironbridge Plastics SA,EMEA,Enterprise,prospect,EMEA Enterprise,457300.0,EUR,5,3,N
+ACC-1134,Westbrook Foods Group,EMEA,Enterprise,prospect,EMEA Enterprise,797400.0,EUR,5,3,N
+ACC-1135,Ironbridge Textiles GmbH,EMEA,Enterprise,customer,EMEA Enterprise,478500.0,EUR,5,0,Y
+ACC-1136,Ridgeway Paper SA,EMEA,Enterprise,customer,EMEA Enterprise,242400.0,EUR,2,4,N
+ACC-1137,Orbit Plastics Partners,EMEA,Enterprise,customer,EMEA Enterprise,163100.0,GBP,4,4,N
+ACC-1138,Xenon Paper Inc,EMEA,Enterprise,prospect,EMEA Enterprise,634100.0,GBP,4,0,N
+ACC-1139,Helix Pharma Inc,EMEA,Enterprise,prospect,EMEA Enterprise,394300.0,USD,5,3,N
+ACC-1140,Xenon Energy Group,EMEA,Enterprise,customer,EMEA Enterprise,699000.0,GBP,1,3,N
+ACC-1141,Orbit Marine Partners,EMEA,Enterprise,customer,EMEA Enterprise,439600.0,GBP,3,2,N
+ACC-1142,Tidewater Marine GmbH,EMEA,Enterprise,customer,EMEA Enterprise,321000.0,USD,4,3,N
+ACC-1143,Zenith Energy Ltd,EMEA,Enterprise,customer,EMEA Enterprise,343600.0,EUR,4,4,N
+ACC-1144,Alder Foods SA,EMEA,Mid-Market,prospect,EMEA Mid-Market,26800.0,GBP,4,0,N
+ACC-1145,Granite Aviation Ltd,EMEA,Mid-Market,prospect,EMEA Mid-Market,78400.0,EUR,5,1,N
+ACC-1146,Xenon Textiles Partners,EMEA,Mid-Market,prospect,EMEA Mid-Market,74500.0,EUR,3,1,N
+ACC-1147,Fjord Freight GmbH,EMEA,Mid-Market,prospect,EMEA Mid-Market,48500.0,EUR,1,0,N
+ACC-1148,Pinnacle Energy Partners,EMEA,Mid-Market,prospect,EMEA Mid-Market,54700.0,GBP,2,0,N
+ACC-1149,Everline Utilities Industries,EMEA,Mid-Market,customer,EMEA Mid-Market,186300.0,GBP,5,3,Y
+ACC-1150,Keystone Paper Ltd,EMEA,Mid-Market,prospect,EMEA Mid-Market,82700.0,GBP,1,4,N
+ACC-1151,Quartz Foods Ltd,EMEA,Mid-Market,prospect,EMEA Mid-Market,102900.0,EUR,3,4,N
+ACC-1152,Tidewater Aviation Holdings,EMEA,Mid-Market,prospect,EMEA Mid-Market,114900.0,EUR,3,4,N
+ACC-1153,Northgate Pharma SA,EMEA,Mid-Market,customer,EMEA Mid-Market,82700.0,EUR,5,5,N
+ACC-1154,Granite Packaging Holdings,EMEA,Mid-Market,customer,EMEA Mid-Market,117100.0,EUR,5,5,N
+ACC-1155,Everline Steel Ltd,EMEA,Mid-Market,prospect,EMEA Mid-Market,120000.0,EUR,5,4,N
+ACC-1156,Juniper Logistics Ltd,EMEA,Mid-Market,customer,EMEA Mid-Market,58400.0,EUR,5,4,Y
+ACC-1157,Westbrook Aviation SA,EMEA,Mid-Market,customer,EMEA Mid-Market,102100.0,EUR,2,2,N
+ACC-1158,Brightwave Textiles GmbH,EMEA,Mid-Market,customer,EMEA Mid-Market,,EUR,4,5,N
+ACC-1159,Granite Paper Ltd,EMEA,Mid-Market,prospect,EMEA Mid-Market,74600.0,EUR,2,3,N
+ACC-1160,Delta Materials Holdings,EMEA,Mid-Market,customer,EMEA Mid-Market,184100.0,EUR,1,2,N
+ACC-1161,Zenith Chemicals Partners,EMEA,Mid-Market,prospect,EMEA Mid-Market,66200.0,EUR,3,1,N
+ACC-1162,Keystone Foods Holdings,EMEA,Mid-Market,customer,EMEA Mid-Market,170300.0,EUR,4,5,N
+ACC-1163,Vantage Textiles Ltd,EMEA,Mid-Market,prospect,EMEA Mid-Market,134400.0,EUR,1,1,N
+ACC-1164,Umbra Plastics Partners,EMEA,Mid-Market,prospect,EMEA Mid-Market,62700.0,EUR,2,2,Y
+ACC-1165,Fjord Mining Group,EMEA,Mid-Market,customer,EMEA Mid-Market,69700.0,EUR,4,1,N
+ACC-1166,Everline Aviation Inc,EMEA,Mid-Market,prospect,EMEA Mid-Market,42900.0,GBP,2,0,N
+ACC-1167,Yarrow Energy GmbH,EMEA,Mid-Market,customer,EMEA Mid-Market,118800.0,USD,4,5,N
+ACC-1168,Xenon Retail GmbH,EMEA,Mid-Market,prospect,EMEA Mid-Market,78400.0,EUR,1,1,N
+ACC-1169,Northgate Steel SA,EMEA,Mid-Market,customer,EMEA Mid-Market,55000.0,EUR,3,5,N
+ACC-1170,Fjord Aviation Industries,EMEA,Mid-Market,customer,EMEA Mid-Market,128100.0,EUR,3,5,N
+ACC-1171,Cobalt Pharma GmbH,EMEA,Mid-Market,customer,EMEA Mid-Market,40400.0,EUR,4,3,N
+ACC-1172,Tidewater Utilities Group,EMEA,Mid-Market,customer,EMEA Mid-Market,61100.0,EUR,3,5,N
+ACC-1173,Fjord Retail Industries,EMEA,Mid-Market,prospect,EMEA Mid-Market,96200.0,EUR,4,1,N
+ACC-1174,Helix Automotive Ltd,EMEA,Mid-Market,customer,EMEA Mid-Market,63300.0,GBP,2,3,N
+ACC-1175,Alder Paper SA,EMEA,Mid-Market,customer,EMEA Mid-Market,97200.0,EUR,4,4,N
+ACC-1176,Ridgeway Materials Group,EMEA,Mid-Market,prospect,EMEA Mid-Market,213100.0,EUR,2,2,N
+ACC-1177,Pinnacle Utilities SA,EMEA,Mid-Market,customer,EMEA Mid-Market,83100.0,EUR,4,4,N
+ACC-1178,Westbrook Freight Group,EMEA,Mid-Market,customer,EMEA Mid-Market,71700.0,GBP,5,0,N
+ACC-1179,Orbit Aviation Ltd,EMEA,Mid-Market,prospect,EMEA Mid-Market,92900.0,USD,3,0,N
+ACC-1180,Everline Packaging Inc,EMEA,Mid-Market,customer,EMEA Mid-Market,71700.0,EUR,2,4,N
+ACC-1181,Cobalt Machinery Holdings,EMEA,Mid-Market,prospect,EMEA Mid-Market,139600.0,USD,5,,N
+ACC-1182,Umbra Retail Industries,EMEA,Mid-Market,customer,EMEA Mid-Market,69200.0,EUR,4,1,N
+ACC-1183,Fjord Energy Ltd,EMEA,Mid-Market,prospect,EMEA Mid-Market,138600.0,USD,2,4,N
+ACC-1184,Zenith Textiles Ltd,EMEA,Mid-Market,prospect,EMEA Mid-Market,284500.0,EUR,4,1,N
+ACC-1185,Fjord Marine Partners,EMEA,Mid-Market,prospect,EMEA Mid-Market,82600.0,EUR,3,1,N
+ACC-1186,Everline Utilities Group,EMEA,Mid-Market,prospect,EMEA Mid-Market,144100.0,EUR,5,0,N
+ACC-1187,Zenith Machinery Partners,EMEA,Mid-Market,customer,EMEA Mid-Market,173000.0,EUR,4,3,N
+ACC-1188,Brightwave Freight Industries,EMEA,Mid-Market,prospect,EMEA Mid-Market,124300.0,USD,3,5,N
+ACC-1189,Helix Energy SA,EMEA,Mid-Market,customer,EMEA Mid-Market,38000.0,EUR,5,5,N
+ACC-1190,Cobalt Aviation SA,EMEA,Mid-Market,prospect,EMEA Mid-Market,30500.0,EUR,1,2,N
+ACC-1191,Keystone Machinery Inc,EMEA,Mid-Market,customer,EMEA Mid-Market,52900.0,GBP,2,4,N
+ACC-1192,Cobalt Foods Ltd,EMEA,Mid-Market,customer,EMEA Mid-Market,94700.0,GBP,4,5,N
+ACC-1193,Cobalt Plastics Group,EMEA,Mid-Market,customer,EMEA Mid-Market,96100.0,EUR,,2,N
+ACC-1194,Granite Retail Industries,EMEA,Mid-Market,prospect,EMEA Mid-Market,105700.0,EUR,3,1,N
+ACC-1195,Ridgeway Freight SA,EMEA,Mid-Market,prospect,EMEA Mid-Market,192600.0,GBP,3,2,N
+ACC-1196,Orbit Logistics SA,APAC,Mid-Market,customer,APAC Mid-Market,154500.0,USD,2,0,N
+ACC-1197,Cobalt Components SA,APAC,Mid-Market,prospect,APAC Mid-Market,70700.0,USD,4,0,N
+ACC-1198,Vantage Aviation Holdings,APAC,Mid-Market,prospect,APAC Mid-Market,111500.0,USD,3,4,N
+ACC-1199,Ironbridge Pharma Group,APAC,Mid-Market,prospect,APAC Mid-Market,83600.0,USD,2,4,N
+ACC-1200,Vantage Retail Holdings,APAC,Mid-Market,prospect,APAC Mid-Market,34300.0,USD,4,0,N
+ACC-1201,Cobalt Pharma Inc,APAC,Mid-Market,customer,APAC Mid-Market,188500.0,USD,4,3,N
+ACC-1202,Ironbridge Components SA,APAC,Mid-Market,prospect,APAC Mid-Market,71300.0,USD,3,2,N
+ACC-1203,Everline Packaging Partners,APAC,Mid-Market,customer,APAC Mid-Market,62800.0,USD,4,3,N
+ACC-1204,Fjord Mining Industries,APAC,Mid-Market,prospect,APAC Mid-Market,158000.0,USD,1,1,N
+ACC-1205,Quartz Steel Inc,APAC,Mid-Market,prospect,APAC Mid-Market,104500.0,USD,4,1,N
+ACC-1206,Vantage Mining SA,APAC,Mid-Market,prospect,APAC Mid-Market,82100.0,USD,3,5,N
+ACC-1207,Ridgeway Components Partners,APAC,Mid-Market,prospect,APAC Mid-Market,104700.0,USD,3,0,N
+ACC-1208,Fjord Packaging Inc,APAC,Mid-Market,prospect,APAC Mid-Market,82300.0,USD,3,4,N
+ACC-1209,Vantage Packaging Group,APAC,Mid-Market,prospect,APAC Mid-Market,53800.0,USD,2,0,N
+ACC-1210,Pinnacle Marine Group,APAC,Mid-Market,customer,APAC Mid-Market,20900.0,USD,4,4,N
+ACC-1211,Tidewater Energy Group,APAC,Mid-Market,customer,APAC Mid-Market,188000.0,USD,5,2,N
+ACC-1212,Yarrow Steel GmbH,APAC,Mid-Market,customer,APAC Mid-Market,39800.0,USD,5,3,N
+ACC-1213,Yarrow Packaging GmbH,APAC,Mid-Market,customer,APAC Mid-Market,50400.0,USD,2,4,N
+ACC-1214,Northgate Retail Industries,APAC,Mid-Market,prospect,APAC Mid-Market,87800.0,USD,3,0,N
+ACC-1215,Zenith Packaging SA,APAC,Mid-Market,customer,APAC Mid-Market,160500.0,USD,3,2,N
+ACC-1216,Ironbridge Packaging Group,APAC,Mid-Market,customer,APAC Mid-Market,196000.0,USD,3,2,N
+ACC-1217,Granite Textiles Inc,APAC,Mid-Market,prospect,APAC Mid-Market,43100.0,USD,5,2,N
+ACC-1218,Ridgeway Textiles Inc,APAC,Mid-Market,prospect,APAC Mid-Market,36300.0,USD,3,3,N
+ACC-1219,Solstice Retail Partners,APAC,Mid-Market,customer,APAC Mid-Market,106400.0,USD,2,4,N
+ACC-1220,Yarrow Machinery Ltd,APAC,Mid-Market,customer,APAC Mid-Market,214200.0,USD,4,2,N
+ACC-1221,Umbra Marine GmbH,APAC,Mid-Market,customer,APAC Mid-Market,282200.0,USD,1,3,N
+ACC-1222,Xenon Mining Ltd,APAC,Mid-Market,prospect,APAC Mid-Market,139500.0,USD,4,1,N
+ACC-1223,Cobalt Steel GmbH,APAC,Mid-Market,customer,APAC Mid-Market,83900.0,USD,3,5,N
+ACC-1224,Pinnacle Materials Ltd,APAC,Mid-Market,customer,APAC Mid-Market,53700.0,USD,5,1,N
+ACC-1225,Everline Retail SA,APAC,Mid-Market,customer,APAC Mid-Market,172800.0,USD,3,2,N
+ACC-1226,Ironbridge Components Group,APAC,Mid-Market,prospect,APAC Mid-Market,37900.0,USD,4,0,N
+ACC-1227,Umbra Logistics Ltd,APAC,Mid-Market,prospect,APAC Mid-Market,75600.0,USD,3,2,N
+ACC-1228,Ironbridge Machinery SA,APAC,Mid-Market,customer,APAC Mid-Market,267000.0,USD,5,5,N
+ACC-1229,Umbra Components Ltd,APAC,Mid-Market,prospect,APAC Mid-Market,244200.0,USD,3,3,N
+ACC-1230,Orbit Energy GmbH,APAC,Mid-Market,prospect,APAC Mid-Market,84800.0,USD,2,1,N
+ACC-1231,Orbit Steel Group,LATAM,Mid-Market,customer,LATAM Mid-Market,93500.0,USD,3,4,N
+ACC-1232,Vantage Plastics GmbH,LATAM,Mid-Market,prospect,LATAM Mid-Market,182200.0,USD,2,1,N
+ACC-1233,Solstice Materials SA,LATAM,Mid-Market,prospect,LATAM Mid-Market,129000.0,USD,4,1,Y
+ACC-1234,Alder Chemicals Group,LATAM,Mid-Market,prospect,LATAM Mid-Market,212300.0,USD,2,1,N
+ACC-1235,Keystone Materials Industries,LATAM,Mid-Market,customer,LATAM Mid-Market,41600.0,USD,4,3,N
+ACC-1236,Juniper Textiles Industries,LATAM,Mid-Market,customer,LATAM Mid-Market,51200.0,USD,5,5,N
+ACC-1237,Cobalt Retail SA,LATAM,Mid-Market,prospect,LATAM Mid-Market,69100.0,USD,4,3,N
+ACC-1238,Alder Mining Holdings,LATAM,Mid-Market,prospect,LATAM Mid-Market,91200.0,USD,4,3,N
+ACC-1239,Fjord Chemicals Group,LATAM,Mid-Market,prospect,LATAM Mid-Market,85000.0,USD,2,4,N
+ACC-1240,Quartz Freight Partners,LATAM,Mid-Market,customer,LATAM Mid-Market,75600.0,USD,3,3,N
+ACC-1241,Pinnacle Aviation Industries,LATAM,Mid-Market,prospect,LATAM Mid-Market,56300.0,USD,4,3,N
+ACC-1242,Yarrow Automotive Partners,LATAM,Mid-Market,prospect,LATAM Mid-Market,57400.0,USD,2,1,N
+ACC-1243,Tidewater Utilities Partners,LATAM,Mid-Market,customer,LATAM Mid-Market,77800.0,USD,5,3,N
+ACC-1244,Ironbridge Textiles SA,LATAM,Mid-Market,prospect,LATAM Mid-Market,88000.0,USD,2,0,N
+ACC-1245,Westbrook Pharma Partners,LATAM,Mid-Market,prospect,LATAM Mid-Market,46300.0,USD,1,3,N
+ACC-1246,Northgate Textiles Holdings,LATAM,Mid-Market,customer,LATAM Mid-Market,93300.0,USD,2,3,N
+ACC-1247,Brightwave Marine Inc,LATAM,Mid-Market,customer,LATAM Mid-Market,180800.0,USD,4,3,N
+ACC-1248,Orbit Steel Industries,LATAM,Mid-Market,customer,LATAM Mid-Market,90800.0,USD,3,5,N
+ACC-1249,Vantage Energy Industries,LATAM,Mid-Market,customer,LATAM Mid-Market,135200.0,USD,4,5,N
+ACC-1250,Westbrook Materials SA,LATAM,Mid-Market,customer,LATAM Mid-Market,82900.0,USD,3,3,N
+ACC-1251,Brightwave Foods Holdings,LATAM,Mid-Market,customer,LATAM Mid-Market,109400.0,USD,3,2,N
+ACC-1252,Granite Utilities Industries,LATAM,Mid-Market,prospect,LATAM Mid-Market,74200.0,USD,3,4,N
+ACC-1253,Quartz Components Holdings,LATAM,Mid-Market,customer,LATAM Mid-Market,112700.0,USD,4,4,N
+ACC-1254,Alder Aviation GmbH,LATAM,Mid-Market,prospect,LATAM Mid-Market,209300.0,USD,4,4,N
+ACC-1255,Umbra Retail Ltd,LATAM,Mid-Market,customer,LATAM Mid-Market,59900.0,USD,1,3,N
+ACC-1256,Zenith Plastics Inc,LATAM,Mid-Market,prospect,LATAM Mid-Market,156200.0,USD,3,2,N
+ACC-1257,Umbra Mining SA,LATAM,Mid-Market,prospect,LATAM Mid-Market,54500.0,USD,5,5,N
+ACC-1258,Juniper Freight Ltd,LATAM,Mid-Market,customer,LATAM Mid-Market,44000.0,USD,3,5,N
+ACC-1259,Orbit Marine GmbH,LATAM,Mid-Market,customer,LATAM Mid-Market,444100.0,USD,3,1,N
+ACC-1260,Yarrow Pharma Industries,LATAM,Mid-Market,customer,LATAM Mid-Market,30700.0,USD,4,3,N
+ACC-1261,Ironbridge Machinery Inc.,APAC,Mid-Market,customer,APAC Mid-Market,267000.0,USD,5,5,N
+ACC-1262,Northgate Pharma Inc.,EMEA,Mid-Market,customer,EMEA Mid-Market,82700.0,EUR,5,5,N
+ACC-1263,Granite Components Inc.,North America,Mid-Market,prospect,NA Mid-Market,56300.0,USD,4,0,N
+ACC-1264,Juniper Marine Inc.,North America,Enterprise,prospect,NA Enterprise,769300.0,USD,3,5,N
+ACC-1265,Granite Textiles Inc.,APAC,Mid-Market,prospect,APAC Mid-Market,43100.0,USD,5,2,N
+ACC-1266,Orbit Components Inc.,North America,Mid-Market,customer,NA Mid-Market,63700.0,USD,1,4,N
+ACC-1267,Orphan Team Industries 0,LATAM,Enterprise,prospect,LATAM Enterprise,300000,USD,4,3,N
+ACC-1268,Orphan Team Industries 1,LATAM,Enterprise,prospect,LATAM Enterprise,300000,USD,4,3,N
